@@ -1,7 +1,5 @@
 Welcome to my site!
 
-Hello there! I'm Stefania! 
-
 TesterBake: I test my own bakery (and yours, if you cook!)
 
 I'm learning constantly so I think this is the best way to introduce myself and show you what I do everyday
