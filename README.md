@@ -1,4 +1,6 @@
-<p1>Welcome to my site!</p1>
+Welcome to my site!
+
+Hello there! I'm Stefania! 
 
 TesterBake: I test my own bakery (and yours, if you cook!)
 
